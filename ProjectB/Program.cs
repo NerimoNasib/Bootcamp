@@ -1,9 +1,10 @@
-﻿class Employee{
-    string name;
-    string occupation;
-    string city;
-    int salary;
-    int experience;
+﻿public class Employee{
+    public string name;
+    public string occupation;
+    public string city;
+    public int salary;
+    public int experience;
+    
 
     public void printName(){
         Console.WriteLine("Input nama: ");
@@ -37,8 +38,8 @@
     }
 }
 
-class Program{
-    static void Main(){
+public class Program{
+    public static void Main(){
         Employee emp = new Employee();
         emp.printName();
         emp.printOccupation();
