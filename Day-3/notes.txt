@@ -1,0 +1,145 @@
+static void Main(){
+	//Alternative
+	//var stringbuilder = new StringBuilder();
+	StringBuilder stringbuilder = new StringBuilder();
+
+	for (int i = 0; i < 10; i++){
+		stringbuilder.Append("String" + i);
+	}
+
+	string result = sb.ToString();
+	Console.WriteLine(result);
+
+	//How to add
+	result = "Addition";
+}
+
+
+
+//Overriding example below:
+void Main(){
+    Cat cat = new();
+    //The overriden method is called
+    cat.MakeSound();  
+
+    //Hiding method
+    //((Animal))cat.MakeSound;
+    //Another example
+    //void Main{
+    //double x = 100.0;
+    //int y = (int)x;
+    //}
+}
+
+class Animal{
+    public virtual void MakeSound(){
+        Console.WriteLine("Animal");
+    }
+}
+
+class Cat : Animal{
+    public override void Animal(){
+        Console.WriteLine("Meong");
+        base.MakeSound();
+    }
+}
+
+//INTERFACE
+void Main(){
+    Circle circle = new();
+    circle.Draw();
+}
+
+class Circle : IShape
+{
+    public void Draw()
+    {
+
+    }
+
+    public void GetColor()
+    {
+
+    }
+
+    public void Calculate()
+    {
+
+    }
+
+}
+
+interface IShape
+{
+    void Draw();
+    void GetColor();
+    void Calculate();
+}
+
+//ABSTRACT
+abstract class Shape
+{
+    public abstract void Draw();
+    public void ChangeColor(string color){
+        Console.WriteLine("You've changed color to: " + color);
+    }
+}
+
+// internal class Program
+// {
+//     private static void Main()
+//     {
+//             Circle circle = new();
+//             circle.Draw();
+
+//             Rectangle rect = new();
+//             rect.Draw();
+//             rect.ChangeColor("Red");
+//     }
+
+//     class Circle : IShape
+//     {
+//         public void Draw()
+//         {
+//             Console.WriteLine("Drawing using Interface");
+//         }
+
+//         public void GetColor()
+//         {
+
+//         }
+
+//         public void Calculate()
+//         {
+
+//         }
+
+//     }
+
+//     class Rectangle: Shape, IShape
+//     {
+//         public override void Draw()
+//         {
+//             Console.WriteLine("Overriding drawing using Abstraction");
+//         }
+//         public void GetColor() //cannot override if empty
+//         {}
+//         public void Calculate() //cannot override if empty
+//         {}
+//     }
+
+//     interface IShape
+//     {
+//         void Draw();
+//         void GetColor();
+//         void Calculate();
+//     }
+
+//     abstract class Shape
+//     {
+//         public abstract void Draw();
+//         public void ChangeColor(string color){
+//             Console.WriteLine("You've changed color to: " + color);
+//         }
+//     }
+// }

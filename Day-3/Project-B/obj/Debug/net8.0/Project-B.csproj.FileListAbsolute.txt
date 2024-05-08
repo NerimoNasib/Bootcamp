@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\bin\Debug\net8.0\Project-B.exe
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\bin\Debug\net8.0\Project-B.deps.json
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\bin\Debug\net8.0\Project-B.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\bin\Debug\net8.0\Project-B.dll
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\bin\Debug\net8.0\Project-B.pdb
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\Project-B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\Project-B.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\Project-B.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\Project-B.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\Project-B.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\Project-B.dll
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\refint\Project-B.dll
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\Project-B.pdb
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\Project-B.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-3\Project-B\obj\Debug\net8.0\ref\Project-B.dll
