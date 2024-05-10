@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\bin\Debug\net8.0\project-a-swap.exe
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\bin\Debug\net8.0\project-a-swap.deps.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\bin\Debug\net8.0\project-a-swap.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\bin\Debug\net8.0\project-a-swap.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\bin\Debug\net8.0\project-a-swap.pdb
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\project-a-swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\project-a-swap.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\project-a-swap.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\project-a-swap.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\project-a-swap.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\project-a-swap.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\refint\project-a-swap.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\project-a-swap.pdb
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\project-a-swap.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-a-swap\obj\Debug\net8.0\ref\project-a-swap.dll

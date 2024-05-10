@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\project-ref-in-out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\project-ref-in-out.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\project-ref-in-out.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\project-ref-in-out.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\project-ref-in-out.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\bin\Debug\net8.0\project-ref-in-out.exe
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\bin\Debug\net8.0\project-ref-in-out.deps.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\bin\Debug\net8.0\project-ref-in-out.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\bin\Debug\net8.0\project-ref-in-out.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\bin\Debug\net8.0\project-ref-in-out.pdb
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\project-ref-in-out.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\refint\project-ref-in-out.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\project-ref-in-out.pdb
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\project-ref-in-out.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-ref-in-out\obj\Debug\net8.0\ref\project-ref-in-out.dll

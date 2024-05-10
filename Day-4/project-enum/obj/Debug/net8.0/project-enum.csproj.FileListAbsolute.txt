@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\bin\Debug\net8.0\project-enum.exe
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\bin\Debug\net8.0\project-enum.deps.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\bin\Debug\net8.0\project-enum.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\bin\Debug\net8.0\project-enum.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\bin\Debug\net8.0\project-enum.pdb
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\project-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\project-enum.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\project-enum.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\project-enum.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\project-enum.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\project-enum.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\refint\project-enum.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\project-enum.pdb
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\project-enum.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-enum\obj\Debug\net8.0\ref\project-enum.dll

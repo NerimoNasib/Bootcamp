@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\project-params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\project-params.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\project-params.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\project-params.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\project-params.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\bin\Debug\net8.0\project-params.exe
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\bin\Debug\net8.0\project-params.deps.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\bin\Debug\net8.0\project-params.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\bin\Debug\net8.0\project-params.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\bin\Debug\net8.0\project-params.pdb
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\project-params.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\refint\project-params.dll
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\project-params.pdb
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\project-params.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-4\project-params\obj\Debug\net8.0\ref\project-params.dll
