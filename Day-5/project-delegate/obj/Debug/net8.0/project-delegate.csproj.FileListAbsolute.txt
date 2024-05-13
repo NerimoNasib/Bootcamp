@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\project-delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\project-delegate.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\project-delegate.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\project-delegate.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\project-delegate.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\bin\Debug\net8.0\project-delegate.exe
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\bin\Debug\net8.0\project-delegate.deps.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\bin\Debug\net8.0\project-delegate.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\bin\Debug\net8.0\project-delegate.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\bin\Debug\net8.0\project-delegate.pdb
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\project-delegate.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\refint\project-delegate.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\project-delegate.pdb
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\project-delegate.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-delegate\obj\Debug\net8.0\ref\project-delegate.dll

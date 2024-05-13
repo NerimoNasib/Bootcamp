@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\bin\Debug\net8.0\project-handler.exe
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\bin\Debug\net8.0\project-handler.deps.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\bin\Debug\net8.0\project-handler.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\bin\Debug\net8.0\project-handler.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\bin\Debug\net8.0\project-handler.pdb
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\project-handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\project-handler.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\project-handler.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\project-handler.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\project-handler.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\project-handler.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\refint\project-handler.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\project-handler.pdb
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\project-handler.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-handler\obj\Debug\net8.0\ref\project-handler.dll

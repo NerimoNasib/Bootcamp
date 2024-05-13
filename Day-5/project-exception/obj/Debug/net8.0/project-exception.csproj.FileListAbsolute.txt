@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\bin\Debug\net8.0\project-exception.exe
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\bin\Debug\net8.0\project-exception.deps.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\bin\Debug\net8.0\project-exception.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\bin\Debug\net8.0\project-exception.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\bin\Debug\net8.0\project-exception.pdb
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\project-exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\project-exception.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\project-exception.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\project-exception.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\project-exception.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\project-exception.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\refint\project-exception.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\project-exception.pdb
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\project-exception.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-exception\obj\Debug\net8.0\ref\project-exception.dll

@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\project-properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\project-properties.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\project-properties.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\project-properties.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\project-properties.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\bin\Debug\net8.0\project-properties.exe
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\bin\Debug\net8.0\project-properties.deps.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\bin\Debug\net8.0\project-properties.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\bin\Debug\net8.0\project-properties.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\bin\Debug\net8.0\project-properties.pdb
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\project-properties.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\refint\project-properties.dll
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\project-properties.pdb
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\project-properties.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-5\project-properties\obj\Debug\net8.0\ref\project-properties.dll
