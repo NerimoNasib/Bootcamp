@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda-anon-expression", "lambda-anon-expression\lambda-anon-expression.csproj", "{69CCE180-7839-4E34-B02E-88710682CF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operator-overloading", "operator-overloading\operator-overloading.csproj", "{44220EDE-348A-4166-BDA7-148030BE70FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nullable-type", "nullable-type\nullable-type.csproj", "{AF90467B-60A6-4323-AA9F-54107D3CFE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collection", "collection\collection.csproj", "{2C8F764F-D15F-433C-A928-047920606A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooBar", "FooBar\FooBar.csproj", "{CC1B6E1E-F09C-4641-A24C-1723FD376F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CCE180-7839-4E34-B02E-88710682CF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CCE180-7839-4E34-B02E-88710682CF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CCE180-7839-4E34-B02E-88710682CF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CCE180-7839-4E34-B02E-88710682CF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44220EDE-348A-4166-BDA7-148030BE70FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44220EDE-348A-4166-BDA7-148030BE70FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44220EDE-348A-4166-BDA7-148030BE70FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44220EDE-348A-4166-BDA7-148030BE70FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF90467B-60A6-4323-AA9F-54107D3CFE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF90467B-60A6-4323-AA9F-54107D3CFE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF90467B-60A6-4323-AA9F-54107D3CFE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF90467B-60A6-4323-AA9F-54107D3CFE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8F764F-D15F-433C-A928-047920606A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8F764F-D15F-433C-A928-047920606A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8F764F-D15F-433C-A928-047920606A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8F764F-D15F-433C-A928-047920606A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1B6E1E-F09C-4641-A24C-1723FD376F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1B6E1E-F09C-4641-A24C-1723FD376F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1B6E1E-F09C-4641-A24C-1723FD376F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1B6E1E-F09C-4641-A24C-1723FD376F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\nullable-type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\nullable-type.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\nullable-type.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\nullable-type.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\nullable-type.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\bin\Debug\net8.0\nullable-type.exe
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\bin\Debug\net8.0\nullable-type.deps.json
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\bin\Debug\net8.0\nullable-type.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\bin\Debug\net8.0\nullable-type.dll
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\bin\Debug\net8.0\nullable-type.pdb
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\nullable-type.dll
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\refint\nullable-type.dll
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\nullable-type.pdb
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\nullable-type.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-6\nullable-type\obj\Debug\net8.0\ref\nullable-type.dll

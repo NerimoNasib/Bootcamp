@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\bin\Debug\net8.0\lambda-anon-expression.exe
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\bin\Debug\net8.0\lambda-anon-expression.deps.json
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\bin\Debug\net8.0\lambda-anon-expression.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\bin\Debug\net8.0\lambda-anon-expression.dll
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\bin\Debug\net8.0\lambda-anon-expression.pdb
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\lambda-anon-expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\lambda-anon-expression.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\lambda-anon-expression.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\lambda-anon-expression.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\lambda-anon-expression.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\lambda-anon-expression.dll
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\refint\lambda-anon-expression.dll
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\lambda-anon-expression.pdb
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\lambda-anon-expression.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-6\lambda-anon-expression\obj\Debug\net8.0\ref\lambda-anon-expression.dll

@@ -34,8 +34,8 @@ internal class Program
         string[] esteh = {"Es Teh Dingin", "Es Teh Panas", "Es Teh Anget"};
         Console.WriteLine(esteh[3]);
 
-        float x = 10;
-        float y = 0;
+        int x = 10;
+        int y = 0;
         Console.WriteLine(x/y);
     }
 }
