@@ -5,7 +5,7 @@ public class FooBar
 {
     public IList<string> FooBarList(int n)
     {
-        var list = new List<string>(n);
+        var queue = new Queue<string>();
 
         for (int i = 1; i <= n; i++)
         {
@@ -16,9 +16,10 @@ public class FooBar
                 (false, true) => "Bar",
                 (false, false) => i.ToString()
             };
-            list.Add(item);
+            queue.Enqueue(item);
         }
-        return list;
+
+        return new List<string>(queue);
     }
 }
 
