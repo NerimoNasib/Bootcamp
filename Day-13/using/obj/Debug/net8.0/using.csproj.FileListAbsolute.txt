@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-13\using\bin\Debug\net8.0\using.exe
+C:\Users\Batch 10\Documents\coding\Day-13\using\bin\Debug\net8.0\using.deps.json
+C:\Users\Batch 10\Documents\coding\Day-13\using\bin\Debug\net8.0\using.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-13\using\bin\Debug\net8.0\using.dll
+C:\Users\Batch 10\Documents\coding\Day-13\using\bin\Debug\net8.0\using.pdb
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\using.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\using.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\using.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\using.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\using.dll
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\refint\using.dll
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\using.pdb
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\using.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-13\using\obj\Debug\net8.0\ref\using.dll

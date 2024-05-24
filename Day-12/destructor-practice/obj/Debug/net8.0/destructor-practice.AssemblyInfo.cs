@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("destructor-practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df10e2e48159a54306e741e3dc789d31ed3b9cec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7d1259ddfc727715b2880c94764e27eea2303e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("destructor-practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("destructor-practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
