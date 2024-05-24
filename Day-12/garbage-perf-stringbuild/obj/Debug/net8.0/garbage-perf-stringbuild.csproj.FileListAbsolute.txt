@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\garbage-perf-stringbuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\garbage-perf-stringbuild.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\garbage-perf-stringbuild.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\garbage-perf-stringbuild.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\garbage-perf-stringbuild.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\bin\Debug\net8.0\garbage-perf-stringbuild.exe
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\bin\Debug\net8.0\garbage-perf-stringbuild.deps.json
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\bin\Debug\net8.0\garbage-perf-stringbuild.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\bin\Debug\net8.0\garbage-perf-stringbuild.dll
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\bin\Debug\net8.0\garbage-perf-stringbuild.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\garbage-perf-stringbuild.dll
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\refint\garbage-perf-stringbuild.dll
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\garbage-perf-stringbuild.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\garbage-perf-stringbuild.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-perf-stringbuild\obj\Debug\net8.0\ref\garbage-perf-stringbuild.dll

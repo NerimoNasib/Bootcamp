@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\bin\Debug\net8.0\garbage.exe
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\bin\Debug\net8.0\garbage.deps.json
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\bin\Debug\net8.0\garbage.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\bin\Debug\net8.0\garbage.dll
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\bin\Debug\net8.0\garbage.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\garbage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\garbage.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\garbage.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\garbage.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\garbage.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\garbage.dll
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\refint\garbage.dll
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\garbage.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\garbage.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-12\garbage\obj\Debug\net8.0\ref\garbage.dll

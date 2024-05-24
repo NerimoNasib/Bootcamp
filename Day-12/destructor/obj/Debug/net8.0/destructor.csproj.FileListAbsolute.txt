@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\bin\Debug\net8.0\destructor.exe
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\bin\Debug\net8.0\destructor.deps.json
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\bin\Debug\net8.0\destructor.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\bin\Debug\net8.0\destructor.dll
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\bin\Debug\net8.0\destructor.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\destructor.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\destructor.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\destructor.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\destructor.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\destructor.dll
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\refint\destructor.dll
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\destructor.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\destructor.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-12\destructor\obj\Debug\net8.0\ref\destructor.dll

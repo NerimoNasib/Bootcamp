@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\bin\Debug\net8.0\garbage-performance.exe
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\bin\Debug\net8.0\garbage-performance.deps.json
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\bin\Debug\net8.0\garbage-performance.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\bin\Debug\net8.0\garbage-performance.dll
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\bin\Debug\net8.0\garbage-performance.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\garbage-performance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\garbage-performance.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\garbage-performance.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\garbage-performance.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\garbage-performance.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\garbage-performance.dll
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\refint\garbage-performance.dll
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\garbage-performance.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\garbage-performance.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-12\garbage-performance\obj\Debug\net8.0\ref\garbage-performance.dll

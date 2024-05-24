@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\destructor-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\destructor-practice.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\destructor-practice.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\destructor-practice.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\destructor-practice.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\bin\Debug\net8.0\destructor-practice.exe
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\bin\Debug\net8.0\destructor-practice.deps.json
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\bin\Debug\net8.0\destructor-practice.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\bin\Debug\net8.0\destructor-practice.dll
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\bin\Debug\net8.0\destructor-practice.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\destructor-practice.dll
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\refint\destructor-practice.dll
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\destructor-practice.pdb
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\destructor-practice.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-12\destructor-practice\obj\Debug\net8.0\ref\destructor-practice.dll
