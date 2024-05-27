@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-14\locking\bin\Debug\net8.0\locking.exe
+C:\Users\Batch 10\Documents\coding\Day-14\locking\bin\Debug\net8.0\locking.deps.json
+C:\Users\Batch 10\Documents\coding\Day-14\locking\bin\Debug\net8.0\locking.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-14\locking\bin\Debug\net8.0\locking.dll
+C:\Users\Batch 10\Documents\coding\Day-14\locking\bin\Debug\net8.0\locking.pdb
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\locking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\locking.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\locking.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\locking.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\locking.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\locking.dll
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\refint\locking.dll
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\locking.pdb
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\locking.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-14\locking\obj\Debug\net8.0\ref\locking.dll

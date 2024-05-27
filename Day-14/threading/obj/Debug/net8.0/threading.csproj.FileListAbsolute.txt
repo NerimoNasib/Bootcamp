@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-14\threading\bin\Debug\net8.0\threading.exe
+C:\Users\Batch 10\Documents\coding\Day-14\threading\bin\Debug\net8.0\threading.deps.json
+C:\Users\Batch 10\Documents\coding\Day-14\threading\bin\Debug\net8.0\threading.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-14\threading\bin\Debug\net8.0\threading.dll
+C:\Users\Batch 10\Documents\coding\Day-14\threading\bin\Debug\net8.0\threading.pdb
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\threading.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\threading.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\threading.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\threading.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\threading.dll
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\refint\threading.dll
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\threading.pdb
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\threading.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-14\threading\obj\Debug\net8.0\ref\threading.dll

@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\bin\Debug\net8.0\task-thread-ba.exe
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\bin\Debug\net8.0\task-thread-ba.deps.json
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\bin\Debug\net8.0\task-thread-ba.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\bin\Debug\net8.0\task-thread-ba.dll
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\bin\Debug\net8.0\task-thread-ba.pdb
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\task-thread-ba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\task-thread-ba.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\task-thread-ba.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\task-thread-ba.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\task-thread-ba.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\task-thread-ba.dll
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\refint\task-thread-ba.dll
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\task-thread-ba.pdb
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\task-thread-ba.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-14\task-thread-ba\obj\Debug\net8.0\ref\task-thread-ba.dll

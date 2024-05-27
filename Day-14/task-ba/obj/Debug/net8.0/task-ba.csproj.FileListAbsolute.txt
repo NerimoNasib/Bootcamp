@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\task-ba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\task-ba.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\task-ba.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\task-ba.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\task-ba.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\bin\Debug\net8.0\task-ba.exe
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\bin\Debug\net8.0\task-ba.deps.json
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\bin\Debug\net8.0\task-ba.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\bin\Debug\net8.0\task-ba.dll
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\bin\Debug\net8.0\task-ba.pdb
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\task-ba.dll
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\refint\task-ba.dll
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\task-ba.pdb
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\task-ba.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-14\task-ba\obj\Debug\net8.0\ref\task-ba.dll
