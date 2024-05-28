@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\bin\Debug\net8.0\returnable-task.exe
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\bin\Debug\net8.0\returnable-task.deps.json
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\bin\Debug\net8.0\returnable-task.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\bin\Debug\net8.0\returnable-task.dll
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\bin\Debug\net8.0\returnable-task.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\returnable-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\returnable-task.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\returnable-task.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\returnable-task.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\returnable-task.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\returnable-task.dll
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\refint\returnable-task.dll
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\returnable-task.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\returnable-task.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-15\returnable-task\obj\Debug\net8.0\ref\returnable-task.dll

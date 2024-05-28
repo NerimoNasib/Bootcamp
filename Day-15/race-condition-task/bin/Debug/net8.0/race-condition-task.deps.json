@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "race-condition-task/1.0.0": {
+        "runtime": {
+          "race-condition-task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "race-condition-task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

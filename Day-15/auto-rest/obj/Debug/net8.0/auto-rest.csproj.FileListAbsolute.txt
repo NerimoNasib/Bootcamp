@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\auto-rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\auto-rest.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\auto-rest.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\auto-rest.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\auto-rest.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\bin\Debug\net8.0\auto-rest.exe
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\bin\Debug\net8.0\auto-rest.deps.json
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\bin\Debug\net8.0\auto-rest.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\bin\Debug\net8.0\auto-rest.dll
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\bin\Debug\net8.0\auto-rest.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\auto-rest.dll
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\refint\auto-rest.dll
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\auto-rest.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\auto-rest.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-15\auto-rest\obj\Debug\net8.0\ref\auto-rest.dll

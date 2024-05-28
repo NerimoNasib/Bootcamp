@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\race-condition-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\race-condition-task.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\race-condition-task.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\race-condition-task.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\race-condition-task.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\bin\Debug\net8.0\race-condition-task.exe
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\bin\Debug\net8.0\race-condition-task.deps.json
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\bin\Debug\net8.0\race-condition-task.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\bin\Debug\net8.0\race-condition-task.dll
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\bin\Debug\net8.0\race-condition-task.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\race-condition-task.dll
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\refint\race-condition-task.dll
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\race-condition-task.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\race-condition-task.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-15\race-condition-task\obj\Debug\net8.0\ref\race-condition-task.dll

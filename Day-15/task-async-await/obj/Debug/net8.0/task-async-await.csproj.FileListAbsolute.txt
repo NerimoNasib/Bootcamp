@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\bin\Debug\net8.0\task-async-await.exe
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\bin\Debug\net8.0\task-async-await.deps.json
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\bin\Debug\net8.0\task-async-await.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\bin\Debug\net8.0\task-async-await.dll
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\bin\Debug\net8.0\task-async-await.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\task-async-await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\task-async-await.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\task-async-await.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\task-async-await.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\task-async-await.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\task-async-await.dll
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\refint\task-async-await.dll
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\task-async-await.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\task-async-await.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-15\task-async-await\obj\Debug\net8.0\ref\task-async-await.dll

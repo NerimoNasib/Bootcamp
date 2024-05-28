@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\bin\Debug\net8.0\when-ba.exe
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\bin\Debug\net8.0\when-ba.deps.json
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\bin\Debug\net8.0\when-ba.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\bin\Debug\net8.0\when-ba.dll
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\bin\Debug\net8.0\when-ba.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\when-ba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\when-ba.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\when-ba.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\when-ba.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\when-ba.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\when-ba.dll
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\refint\when-ba.dll
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\when-ba.pdb
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\when-ba.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-15\when-ba\obj\Debug\net8.0\ref\when-ba.dll
