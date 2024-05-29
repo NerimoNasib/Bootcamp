@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Shun</Name>
+    <Age>15</Age>
+  </Student>
+  <Student>
+    <Name>Hoshino</Name>
+    <Age>17</Age>
+  </Student>
+  <Student>
+    <Name>Shiroko</Name>
+    <Age>16</Age>
+  </Student>
+  <Student>
+    <Name>Hifumi</Name>
+    <Age>17</Age>
+  </Student>
+  <Student>
+    <Name>Izuna</Name>
+    <Age>15</Age>
+  </Student>
+</ArrayOfStudent>

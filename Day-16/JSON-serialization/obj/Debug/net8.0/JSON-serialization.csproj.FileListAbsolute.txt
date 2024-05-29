@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\bin\Debug\net8.0\JSON-serialization.exe
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\bin\Debug\net8.0\JSON-serialization.deps.json
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\bin\Debug\net8.0\JSON-serialization.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\bin\Debug\net8.0\JSON-serialization.dll
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\bin\Debug\net8.0\JSON-serialization.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\JSON-serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\JSON-serialization.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\JSON-serialization.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\JSON-serialization.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\JSON-serialization.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\JSON-serialization.dll
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\refint\JSON-serialization.dll
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\JSON-serialization.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\JSON-serialization.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-16\JSON-serialization\obj\Debug\net8.0\ref\JSON-serialization.dll

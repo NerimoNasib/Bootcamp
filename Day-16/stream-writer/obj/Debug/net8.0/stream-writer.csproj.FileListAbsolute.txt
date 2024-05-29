@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\bin\Debug\net8.0\stream-writer.exe
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\bin\Debug\net8.0\stream-writer.deps.json
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\bin\Debug\net8.0\stream-writer.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\bin\Debug\net8.0\stream-writer.dll
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\bin\Debug\net8.0\stream-writer.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\stream-writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\stream-writer.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\stream-writer.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\stream-writer.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\stream-writer.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\stream-writer.dll
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\refint\stream-writer.dll
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\stream-writer.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\stream-writer.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-16\stream-writer\obj\Debug\net8.0\ref\stream-writer.dll

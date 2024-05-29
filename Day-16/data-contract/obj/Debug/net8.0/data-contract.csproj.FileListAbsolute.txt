@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\bin\Debug\net8.0\data-contract.exe
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\bin\Debug\net8.0\data-contract.deps.json
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\bin\Debug\net8.0\data-contract.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\bin\Debug\net8.0\data-contract.dll
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\bin\Debug\net8.0\data-contract.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\data-contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\data-contract.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\data-contract.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\data-contract.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\data-contract.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\data-contract.dll
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\refint\data-contract.dll
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\data-contract.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\data-contract.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-16\data-contract\obj\Debug\net8.0\ref\data-contract.dll

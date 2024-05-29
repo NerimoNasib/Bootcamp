@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\bin\Debug\net8.0\xml-serial.exe
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\bin\Debug\net8.0\xml-serial.deps.json
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\bin\Debug\net8.0\xml-serial.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\bin\Debug\net8.0\xml-serial.dll
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\bin\Debug\net8.0\xml-serial.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\xml-serial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\xml-serial.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\xml-serial.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\xml-serial.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\xml-serial.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\xml-serial.dll
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\refint\xml-serial.dll
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\xml-serial.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\xml-serial.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-16\xml-serial\obj\Debug\net8.0\ref\xml-serial.dll

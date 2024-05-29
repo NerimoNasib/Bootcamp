@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\bin\Debug\net8.0\file-stream.exe
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\bin\Debug\net8.0\file-stream.deps.json
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\bin\Debug\net8.0\file-stream.runtimeconfig.json
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\bin\Debug\net8.0\file-stream.dll
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\bin\Debug\net8.0\file-stream.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\file-stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\file-stream.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\file-stream.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\file-stream.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\file-stream.sourcelink.json
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\file-stream.dll
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\refint\file-stream.dll
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\file-stream.pdb
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\file-stream.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\coding\Day-16\file-stream\obj\Debug\net8.0\ref\file-stream.dll
