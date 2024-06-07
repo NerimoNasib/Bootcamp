@@ -1,0 +1,15 @@
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\bin\Debug\net8.0\proxy-design.exe
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\bin\Debug\net8.0\proxy-design.deps.json
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\bin\Debug\net8.0\proxy-design.runtimeconfig.json
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\bin\Debug\net8.0\proxy-design.dll
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\bin\Debug\net8.0\proxy-design.pdb
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\proxy-design.GeneratedMSBuildEditorConfig.editorconfig
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\proxy-design.AssemblyInfoInputs.cache
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\proxy-design.AssemblyInfo.cs
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\proxy-design.csproj.CoreCompileInputs.cache
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\proxy-design.sourcelink.json
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\proxy-design.dll
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\refint\proxy-design.dll
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\proxy-design.pdb
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\proxy-design.genruntimeconfig.cache
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\proxy-design\obj\Debug\net8.0\ref\proxy-design.dll
