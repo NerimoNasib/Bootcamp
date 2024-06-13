@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>StringVsStringBuilder-20240613-103410</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.12, Windows 11 (10.0.22631.3737/23H2/2023Update/SunValley3)
+Intel Core i5-8300H CPU 2.30GHz (Coffee Lake), 1 CPU, 8 logical and 4 physical cores
+.NET SDK 8.0.200
+  [Host]     : .NET 8.0.2 (8.0.224.6711), X64 RyuJIT AVX2
+  DefaultJob : .NET 8.0.2 (8.0.224.6711), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method   </th><th>n</th><th>Mean </th><th>Error</th><th>StdDev</th><th>Median</th><th>Gen0</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>MyString</td><td>10</td><td>121.12 ns</td><td>2.457 ns</td><td>4.615 ns</td><td>118.93 ns</td><td>0.0801</td><td>336 B</td>
+</tr><tr><td>MyStringBuilder</td><td>10</td><td>56.47 ns</td><td>0.774 ns</td><td>0.686 ns</td><td>56.61 ns</td><td>0.0363</td><td>152 B</td>
+</tr><tr><td>MyString</td><td>100</td><td>2,087.47 ns</td><td>37.888 ns</td><td>35.440 ns</td><td>2,083.48 ns</td><td>4.9858</td><td>20856 B</td>
+</tr><tr><td>MyString</td><td>100</td><td>2,088.88 ns</td><td>32.830 ns</td><td>36.490 ns</td><td>2,078.48 ns</td><td>4.9858</td><td>20856 B</td>
+</tr><tr><td>MyStringBuilder</td><td>100</td><td>728.70 ns</td><td>14.073 ns</td><td>19.728 ns</td><td>726.93 ns</td><td>0.3052</td><td>1280 B</td>
+</tr><tr><td>MyStringBuilder</td><td>100</td><td>707.42 ns</td><td>7.368 ns</td><td>6.532 ns</td><td>705.07 ns</td><td>0.3052</td><td>1280 B</td>
+</tr></tbody></table>
+</body>
+</html>

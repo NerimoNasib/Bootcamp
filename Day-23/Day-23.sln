@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proxy-design", "proxy-design\proxy-design.csproj", "{DCB4316C-820D-4CB0-B41D-DA25D644F8D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lazy-init", "lazy-init\lazy-init.csproj", "{890A1686-90FC-45A9-BCE1-981B7D7E8B4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{DCB4316C-820D-4CB0-B41D-DA25D644F8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB4316C-820D-4CB0-B41D-DA25D644F8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB4316C-820D-4CB0-B41D-DA25D644F8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890A1686-90FC-45A9-BCE1-981B7D7E8B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890A1686-90FC-45A9-BCE1-981B7D7E8B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890A1686-90FC-45A9-BCE1-981B7D7E8B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890A1686-90FC-45A9-BCE1-981B7D7E8B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

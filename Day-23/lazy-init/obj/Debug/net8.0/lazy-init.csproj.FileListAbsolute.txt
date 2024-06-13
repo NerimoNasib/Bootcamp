@@ -1,0 +1,15 @@
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\bin\Debug\net8.0\lazy-init.exe
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\bin\Debug\net8.0\lazy-init.deps.json
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\bin\Debug\net8.0\lazy-init.runtimeconfig.json
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\bin\Debug\net8.0\lazy-init.dll
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\bin\Debug\net8.0\lazy-init.pdb
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\lazy-init.GeneratedMSBuildEditorConfig.editorconfig
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\lazy-init.AssemblyInfoInputs.cache
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\lazy-init.AssemblyInfo.cs
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\lazy-init.csproj.CoreCompileInputs.cache
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\lazy-init.sourcelink.json
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\lazy-init.dll
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\refint\lazy-init.dll
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\lazy-init.pdb
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\lazy-init.genruntimeconfig.cache
+D:\codingbodoh\c-sharp\Bootcamp\Day-23\lazy-init\obj\Debug\net8.0\ref\lazy-init.dll
