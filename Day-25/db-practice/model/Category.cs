@@ -12,8 +12,4 @@ public class Category
     public string Description { get; set; }
     public IEnumerable<Product> Products { get; set; }
 
-    public Category(){
-        Products = new List<Product>();
-    }
-
 }
