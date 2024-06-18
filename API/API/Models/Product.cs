@@ -11,7 +11,7 @@ public class Product
 
     public int CategoryID { get; set; }
 
-    public int? Price { get; set; }
+    public int Price { get; set; }
 
     public Category Category { get; set; }
 

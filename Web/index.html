@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DurianSeller</title>
+</head>
+
+<body>
+    <div class="list"></div>
+</body>
+<script>
+            document.addEventListener("DOMContentLoaded", function() {
+            const apiUrl = 'http://localhost:5017/api/Category'; 
+            async function fetchData() {
+                try {
+                    const response = await fetch(apiUrl);
+                    const data = await response.json();
+                    displayData(data);
+                } catch (error) {
+                    console.error('Error fetching data:', error);
+                }
+            }
+
+            function displayData(data) {
+                const listDiv = document.querySelector('.list');
+                data.forEach(item => {
+                    const itemDiv = document.createElement('div');
+                    itemDiv.innerHTML = `
+                        <h3>${item.categoryName}</h3>
+                        <p>ID: ${item.categoryID}</p>
+                        <p>Description: ${item.description}</p>
+                    `;
+                    listDiv.appendChild(itemDiv);
+                });
+            }
+            fetchData();
+        });
+</script>
+</html>

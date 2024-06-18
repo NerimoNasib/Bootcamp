@@ -23,7 +23,6 @@ public class Database : DbContext
         {
             cat.HasKey(c => c.ProductID);
             cat.Property(c => c.Description).HasColumnType("TEXT");
-            cat.Property(c => c.Price).IsRequired(false);
         });
     }
 }
