@@ -1,11 +1,12 @@
 @model List<Category>
 
+<a asp-controller="Category" asp-action="Create" class="btn btn-info">Create</a>
 <table class="table">
     <thead>
         <tr>
             <th scope="col">
                 Category ID
-            </th >
+            </th>
             <th scope="col">
                 Category Name
             </th>
@@ -18,15 +19,19 @@
         @foreach (var i in Model)
         {
             <tr>
-                <th>
+                <th scope="row">
                     @i.CategoryID
                 </th>
-                <th>
+                <th scope="row">
                     @i.CategoryName
                 </th>
-                <th>
+                <th scope="row">
                     @i.Description
                 </th>
+                <td>
+                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@i.CategoryID">Edit</a>
+                    <a class="btn btn-primary" asp-action="Delete">Delete</a>
+                </td>
             </tr>
         }
     </tbody>

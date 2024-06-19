@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\codingbodoh\c-sharp\Bootcamp\MVC\mvc
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/codingbodoh/c-sharp/Bootcamp/MVC/mvc/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/codingbodoh/c-sharp/Bootcamp/MVC/mvc/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/codingbodoh/c-sharp/Bootcamp/MVC/mvc/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/codingbodoh/c-sharp/Bootcamp/MVC/mvc/Views/Category/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
